@@ -7,7 +7,7 @@ My github SpeedTracker page: https://github.com/smholt/SpeedTracker_by_platelaye
 
 The project site: http://www.platelayer.com/arduino-scale-speedometer.aspx
 
-The 3D-files for the project: https://cults3d.com/en/3d-model/------
+The 3D-files for the project: https://cults3d.com/en/3d-model/tool/speedtracker-model-railroad-scale-speedometer
 
 My cults3d page: https://cults3d.com/en/users/smholt/3d-models
 
